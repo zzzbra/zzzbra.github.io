@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I’ve worked with Fortune 500 companies, large non-profits, and healthcare tech
+and fashion startups.* Regardless of size or sector, I connect brands to ideas
+bigger than the products and services they sell.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+More specifically, I help companies find their voices; articulate their
+visions; and, communicate why what they do matters.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+*I'm also an Oxford comma advocate.
