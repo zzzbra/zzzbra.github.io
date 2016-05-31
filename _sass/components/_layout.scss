@@ -127,6 +127,7 @@
   margin-bottom: $spacing-unit / 2;
 }
 
+.list,
 .contact-list,
 .social-media-list {
   list-style: none;
@@ -176,6 +177,7 @@
 
 // Page content
 .page-content {
+  font-weight: 100;
   padding: $spacing-unit*3 0 $spacing-unit;
 }
 
@@ -254,4 +256,14 @@
   font-size: $main-font-size;
   font-weight: 100;
   line-height: 50px;
+  margin-bottom: 100px;
+
+  small {
+    font-size: 18px;
+  }
+}
+
+// About Page
+.about-section .col-wrapper {
+  font-size: $post-l-font-size;
 }
