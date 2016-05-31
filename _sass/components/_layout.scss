@@ -5,6 +5,7 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  .wrapper { padding-right: 0; }
 }
 
 .site-title {
@@ -264,6 +265,33 @@
 }
 
 // About Page
-.about-section .col-wrapper {
-  font-size: $post-l-font-size;
+.about-section {
+  margin-bottom: 100px;
+
+  .col-wrapper {
+    font-size: $post-l-font-size;
+  }
 }
+
+// Work page 
+
+.work-section {
+  margin-bottom: 97px;
+
+  h3 {
+    font-size: $post-l-font-size;
+    font-weight: 100;
+  }
+}
+
+.project-title {
+  color: $brand-color;
+  line-height: $post-l-font-size;
+  margin-bottom: 0;
+}
+
+h4.project-industry {
+  font-size: $post-s-font-size;
+  font-weight: 100;
+}
+
