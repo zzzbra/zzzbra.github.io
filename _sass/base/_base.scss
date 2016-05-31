@@ -21,8 +21,6 @@ body {
   font-kerning: normal;
 }
 
-
-
 // Set `margin-bottom` to maintain vertical rhythm
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
@@ -37,8 +35,6 @@ img {
   vertical-align: middle;
 }
 
-
-
 // Figures
 figure > img {
   display: block;
@@ -47,8 +43,6 @@ figure > img {
 figcaption {
   font-size: $small-font-size;
 }
-
-
 
 // Lists
 ul,
@@ -63,8 +57,6 @@ li {
   }
 }
 
-
-
 // Headings
 h1,
 h2,
@@ -75,24 +67,20 @@ h6 {
   font-weight: $base-font-weight;
 }
 
-
-
 // Links
 a {
-  color: $brand-color;
+  // color: $brand-color;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    // color: darken($brand-color, 15%);
   }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    // color: $text-color;
+    // text-decoration: underline;
   }
 }
-
-
 
 // Blockquotes
 blockquote {
@@ -181,4 +169,22 @@ pre {
       fill: $grey-color;
     }
   }
+}
+
+// Modern, clean "James Dean" Sticky Footer
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  // bottom = footer height 
+  margin: 0 0 276px;
+}
+
+footer {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
 }

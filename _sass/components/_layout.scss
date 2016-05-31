@@ -36,10 +36,13 @@
 
   .page-link {
     color: $text-color;
+    display: inline-block;
     font-size: 15px;
+    font-weight: 100;
     line-height: 80px;
     max-width: 160px;
     padding: 0 15px;
+    text-align: center;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -51,8 +54,6 @@
     &:hover {
       background-color: $brand-color;
       color: $white;
-      display: inline-block;
-      text-align: center;
       text-decoration: none;
     }
   }
@@ -111,8 +112,14 @@
 
 // Site footer
 .site-footer {
-  border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  background-color: $brand-color;
+  padding: $spacing-unit*3 0;
+
+  p,
+  a {
+    color: $white;
+    font-weight: 100;
+  }
 }
 
 .footer-heading {
@@ -126,49 +133,39 @@
   margin-left: 0;
 }
 
-.footer-col-wrapper {
+// Column System
+.col-wrapper {
   @extend %clearfix;
-  color: $grey-color;
   font-size: 15px;
   margin-left: -$spacing-unit / 2;
 }
 
-.footer-col {
+.col {
   float: left;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
 }
 
-.footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+.col-1 {
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+  width:         calc(40% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+.col-2 {
+  width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+  width:         calc(60% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
-  .footer-col-1,
-  .footer-col-2 {
+  .col-1,
+  .col-2 {
     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
     width:         calc(50% - (#{$spacing-unit} / 2));
-  }
-
-  .footer-col-3 {
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
   }
 }
 
 @include media-query($on-palm) {
-  .footer-col {
+  .col {
     float: none;
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
     width:         calc(100% - (#{$spacing-unit} / 2));
@@ -179,7 +176,7 @@
 
 // Page content
 .page-content {
-  padding: $spacing-unit 0;
+  padding: $spacing-unit*3 0 $spacing-unit;
 }
 
 .page-heading {
@@ -209,6 +206,8 @@
 
 // Posts
 .post-header {
+  color: $brand-color;
+  font-size: $post-l-font-size;
   margin-bottom: $spacing-unit;
 }
 
@@ -248,4 +247,11 @@
       font-size: 18px;
     }
   }
+}
+
+// Page styles
+.main-text {
+  font-size: $main-font-size;
+  font-weight: 100;
+  line-height: 50px;
 }
