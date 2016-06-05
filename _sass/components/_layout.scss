@@ -205,8 +205,6 @@
   font-size: 24px;
 }
 
-
-
 // Posts
 .post-header {
   color: $brand-color;
@@ -293,5 +291,17 @@
 h4.project-industry {
   font-size: $post-s-font-size;
   font-weight: 100;
+}
+
+.project-subheader {
+  font-size: $post-s-font-size;
+  margin-bottom: 0;
+}
+
+.project-link {
+  border-bottom: 1px solid $secondary-color;
+  cursor: pointer;
+  line-height: 40px;
+  padding-bottom: 6px;
 }
 
