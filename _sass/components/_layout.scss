@@ -13,7 +13,6 @@
   float: left;
   font-size: 25px;
   font-weight: 500;
-  letter-spacing: -1px;
   line-height: 80px;
   margin-bottom: 0;
 
@@ -61,9 +60,11 @@
 
   @include media-query($on-palm) {
     background-color: $background-color;
+    line-height: inherit;
     position: absolute;
     right: $spacing-unit / 2;
-    text-align: right;
+    top: 30px;
+    // text-align: right;
 
     .menu-trigger {
       color: $text-color;
@@ -84,7 +85,7 @@
       height: 100%;
       left: 0;
       position: fixed;
-      top: 82px;
+      top: 81px;
       width: 100%;
       z-index: 1;
     }
@@ -140,6 +141,19 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
+}
+
+// Mobile Site Footer 
+.mobile-footer-wrapper {
+  display: none;
+
+  @include media-query($on-palm) {
+    display: block;
+
+    .site-footer {
+      display: block;
+    }
+  }
 }
 
 // Column System
@@ -237,7 +251,6 @@
 
 .post-title {
   font-size: 42px;
-  letter-spacing: -1px;
   line-height: 1;
 
   @include media-query($on-laptop) {

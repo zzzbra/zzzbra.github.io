@@ -5,7 +5,7 @@
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title | split: " | " | first }}</a>
 
     <nav class="site-nav">
-      <a href="#" class="menu-icon">Menu </a>
+      <a href="#" class="menu-trigger">Menu </a>
 
       <div class="trigger">
         {% for my_page in site.pages %}
@@ -13,6 +13,10 @@
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
+
+        <div class="mobile-footer-wrapper">
+          {% include footer.html %}
+        </div>
       </div>
     </nav>
 
