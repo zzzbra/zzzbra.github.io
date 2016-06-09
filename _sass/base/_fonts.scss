@@ -1,26 +1,24 @@
-/**
- * @license
- * MyFonts Webfont Build ID 3230524, 2016-06-08T23:47:29-0400
- * 
- * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are 
- * explicitly restricted from using the Licensed Webfonts(s).
- * 
- * You may obtain a valid license at the URLs below.
- * 
- * Webfont: Folio-Med by URW++
- * URL: http://www.myfonts.com/fonts/urw/folio/folio-t-medium/
- * 
- * Webfont: Folio-Lig by URW++
- * URL: http://www.myfonts.com/fonts/urw/folio/folio-t-light/
- * 
- * 
- * License: http://www.myfonts.com/viewlicense?type=web&buildid=3230524
- * Licensed pageviews: 10,000
- * Webfonts copyright: Copyright 2010 URW++ Design &amp; Development Hamburg
- * 
- * © 2016 MyFonts Inc
-*/
+// @license
+// MyFonts Webfont Build ID 3230524, 2016-06-08T23:47:29-0400
+// 
+// The fonts listed in this notice are subject to the End User License
+// Agreement(s) entered into by the website owner. All other parties are 
+// explicitly restricted from using the Licensed Webfonts(s).
+// 
+// You may obtain a valid license at the URLs below.
+// 
+// Webfont: Folio-Med by URW++
+// URL: http://www.myfonts.com/fonts/urw/folio/folio-t-medium/
+// 
+// Webfont: Folio-Lig by URW++
+// URL: http://www.myfonts.com/fonts/urw/folio/folio-t-light/
+// 
+// 
+// License: http://www.myfonts.com/viewlicense?type=web&buildid=3230524
+// Licensed pageviews: 10,000
+// Webfonts copyright: Copyright 2010 URW++ Design &amp; Development Hamburg
+// 
+// © 2016 MyFonts Inc
 
 
 // @import must be at top of file, otherwise CSS will not work
@@ -29,13 +27,13 @@
   
 @font-face {
   font-family: 'Folio-Med';
-  src: url('webfonts/314B3C_0_0.eot');
-  src: url('webfonts/314B3C_0_0.eot?#iefix') format('embedded-opentype'), url('webfonts/314B3C_0_0.woff2') format('woff2'), url('webfonts/314B3C_0_0.woff') format('woff'), url('webfonts/314B3C_0_0.ttf') format('truetype');
+  src: url('../assets/fonts/314B3C_0_0.eot');
+  src: url('../assets/fonts/314B3C_0_0.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/314B3C_0_0.woff2') format('woff2'), url('../assets/fonts/314B3C_0_0.woff') format('woff'), url('../assets/fonts/314B3C_0_0.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Folio-Lig';
-  src: url('webfonts/314B3C_1_0.eot');
-  src: url('webfonts/314B3C_1_0.eot?#iefix') format('embedded-opentype'), url('webfonts/314B3C_1_0.woff2') format('woff2'), url('webfonts/314B3C_1_0.woff') format('woff'), url('webfonts/314B3C_1_0.ttf') format('truetype');
+  src: url('../assets/fonts/314B3C_1_0.eot');
+  src: url('../assets/fonts/314B3C_1_0.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/314B3C_1_0.woff2') format('woff2'), url('../assets/fonts/314B3C_1_0.woff') format('woff'), url('../assets/fonts/314B3C_1_0.ttf') format('truetype');
 }
 
