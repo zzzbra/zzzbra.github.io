@@ -90,10 +90,10 @@
       z-index: 1;
     }
 
-    &:hover .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
+    // &:hover .trigger {
+    //   display: block;
+    //   padding-bottom: 5px;
+    // }
 
     .page-link {
       background-color: $white;
@@ -114,12 +114,12 @@
 
 // Site footer
 .site-footer {
+  background-color: $brand-color;
+  padding: $spacing-unit*3 0;
+
   @include media-query($on-palm) {
     display: none;
   }  
-  
-  background-color: $brand-color;
-  padding: $spacing-unit*3 0;
 
   p,
   a {
