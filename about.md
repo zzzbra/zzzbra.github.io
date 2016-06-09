@@ -75,9 +75,9 @@ More specifically, I help companies find their voices; articulate their visions;
       </div>
 
       <div class="col col-2">
-        <ul class="list clients-list">
+        <ul class="list">
           <li>IBM</li>
-          <li>Beth Ditto <a target="_blank" href="http://shop.bethditto.com/">See Project</a></li>
+          <li><a target="_blank" href="http://shop.bethditto.com/">Beth Ditto</a></li>
           <li>Condé Nast</li> 
           <li>Daily Beast</li>
           <li>Schoolhouse Electric & Supply Co.</li>

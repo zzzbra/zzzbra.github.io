@@ -53,9 +53,9 @@
     font-size: 15px;
     font-weight: 100;
     line-height: 80px;
-    max-width: 160px;
     padding: 0 15px;
     text-align: center;
+    width: 130px;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -320,12 +320,7 @@
   }
 }
 
-.clients-list li a {
-  font-size: $post-s-font-size;
-}
-
 // Work page 
-
 .work-section {
   margin-bottom: 97px;
 
