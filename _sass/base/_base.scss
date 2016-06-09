@@ -95,17 +95,21 @@ h6 {
   font-weight: $base-font-weight;
 }
 
+h6 {
+  font-family: $header-font-family;
+}
+
 // Links
 a {
-  // color: $brand-color;
+  color: $brand-color;
   text-decoration: none;
 
   &:visited {
-    // color: darken($brand-color, 15%);
+    color: darken($brand-color, 15%);
   }
 
   &:hover {
-    // color: $text-color;
+    color: $text-color;
     // text-decoration: underline;
   }
 }

@@ -39,10 +39,10 @@ More specifically, I help companies find their voices; articulate their visions;
 
       <div class="col col-2">
         <ul class="list">
-          <li>I used to catalogue rare books here and here.</li>
-          <li>I went through a solid 6 month obsession with digital literary
-          archives.</li>
-          <li>I was an intern at the Paris Review.</li>
+          <li>I used to catalogue rare books <a href="#">here</a> and <a href="#">here</a>.</li>
+          <li>I went through a solid 6 month obsession with <a href="#">digital literary
+          archives</a>.</li>
+          <li>I was an intern at the <a href="#">Paris Review</a>.</li>
           <li>I’m a contemporary classical music enthusiast.</li>
           <li>I am currently pursuing an MPA in Health Policy & Management with a policy specialization at the Robert F. Wagner Graduate School of Public Service at New York University, set to graduate in May 2017.</li>
           <li>I am available for freelance, part-time, and project-based work.</li>
@@ -75,9 +75,9 @@ More specifically, I help companies find their voices; articulate their visions;
       </div>
 
       <div class="col col-2">
-      <ul class="list">
+        <ul class="list clients-list">
           <li>IBM</li>
-          <li>Beth Ditto</li>
+          <li>Beth Ditto <a target="_blank" href="http://shop.bethditto.com/">See Project</a></li>
           <li>Condé Nast</li> 
           <li>Daily Beast</li>
           <li>Schoolhouse Electric & Supply Co.</li>
@@ -96,6 +96,9 @@ More specifically, I help companies find their voices; articulate their visions;
           <li>Lavanila</li>
           <li>Wilt</li>
           <li>Mental Health Association of New York City</li>
+        </ul>
+        <ul class="list">
+          <li><a href="/work">See Selected Work</a></li>
         </ul>
       </div>
     </div>

@@ -11,6 +11,7 @@
 .site-title {
   color: $text-color;
   float: left;
+  font-family: $header-font-family;
   font-size: 25px;
   font-weight: 500;
   line-height: 80px;
@@ -130,6 +131,7 @@
 
 .footer-heading {
   color: $white;
+  font-family: $base-font-family;
   font-size: $post-s-font-size;
   font-weight: 100;
   line-height: 0;
@@ -213,6 +215,10 @@
 // Page content
 .page-content {
   font-weight: 100;
+  
+  a {
+    border-bottom: 1px solid $secondary-color;
+  }
 }
 
 .page-heading {
@@ -306,6 +312,10 @@
   .col-wrapper {
     font-size: $post-l-font-size;
   }
+}
+
+.clients-list li a {
+  font-size: $post-s-font-size;
 }
 
 // Work page 
