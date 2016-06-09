@@ -5,7 +5,19 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+
   .wrapper { padding-right: 0; }
+
+  &.active {
+    background-color: $white;
+    position: fixed;
+    width: 100%;
+
+    .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+  }
 }
 
 .site-title {
@@ -90,11 +102,6 @@
       width: 100%;
       z-index: 1;
     }
-
-    // &:hover .trigger {
-    //   display: block;
-    //   padding-bottom: 5px;
-    // }
 
     .page-link {
       background-color: $white;
