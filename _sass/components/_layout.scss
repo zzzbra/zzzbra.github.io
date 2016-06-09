@@ -50,6 +50,7 @@
   .page-link {
     color: $text-color;
     display: inline-block;
+    float: left;
     font-size: 15px;
     font-weight: 100;
     line-height: 80px;
@@ -110,10 +111,6 @@
       max-width: 100%;
       padding: 5px 20px;
       text-align: left;
-
-      &:not(:last-child) {
-        margin-right: 0;
-      }
     }
   }
 }
