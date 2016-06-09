@@ -23,12 +23,19 @@
 */
 
 
-/* @import must be at top of file, otherwise CSS will not work */
+// @import must be at top of file, otherwise CSS will not work
 @import url("//hello.myfonts.net/count/314b3c");
 
   
-@font-face {font-family: 'Folio-Med';src: url('webfonts/314B3C_0_0.eot');src: url('webfonts/314B3C_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/314B3C_0_0.woff2') format('woff2'),url('webfonts/314B3C_0_0.woff') format('woff'),url('webfonts/314B3C_0_0.ttf') format('truetype');}
- 
-  
-@font-face {font-family: 'Folio-Lig';src: url('webfonts/314B3C_1_0.eot');src: url('webfonts/314B3C_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/314B3C_1_0.woff2') format('woff2'),url('webfonts/314B3C_1_0.woff') format('woff'),url('webfonts/314B3C_1_0.ttf') format('truetype');}
- 
+@font-face {
+  font-family: 'Folio-Med';
+  src: url('webfonts/314B3C_0_0.eot');
+  src: url('webfonts/314B3C_0_0.eot?#iefix') format('embedded-opentype'), url('webfonts/314B3C_0_0.woff2') format('woff2'), url('webfonts/314B3C_0_0.woff') format('woff'), url('webfonts/314B3C_0_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Folio-Lig';
+  src: url('webfonts/314B3C_1_0.eot');
+  src: url('webfonts/314B3C_1_0.eot?#iefix') format('embedded-opentype'), url('webfonts/314B3C_1_0.woff2') format('woff2'), url('webfonts/314B3C_1_0.woff') format('woff'), url('webfonts/314B3C_1_0.ttf') format('truetype');
+}
+
