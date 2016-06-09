@@ -16,3 +16,7 @@ twitter_username: anaisborja
 
 # Build settings
 markdown: kramdown
+
+# gems
+gems:
+  - jekyll-coffeescript
