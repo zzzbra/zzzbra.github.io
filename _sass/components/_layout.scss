@@ -313,6 +313,13 @@
     border-bottom: 1px solid $secondary-color;
     font-size: 18px;
   }
+
+  &-about-page {
+    font-size: $post-l-font-size;
+    font-weight: 100;
+    line-height: 30px;
+    margin-bottom: 100px;
+  }
 }
 
 // About Page

@@ -4,7 +4,7 @@ title: Selected Work
 permalink: /work/
 ---
 
-<p class="main-text">My work spans a range of sectors:  Fashion, Healthcare, Hospitality, Construction, Technology & Consulting, Nonprofits, Lifestyle, and Beauty.</p>
+<p class="main-text">Fashion, Healthcare, Hospitality, Construction, Technology & Consulting, Nonprofits, Lifestyle, and Beauty: My work spans a range of sectors.</p>
 
 <div class="work-section-wrapper">
   <div class="work-section">
@@ -31,7 +31,7 @@ permalink: /work/
         <p class="project-text">Marc Jacobs muse. LGBQT activist. Gossip’s frontwoman. Beth Ditto’s personal brand as punk “It girl” is well-known.  I wrote a lyrical origin story connecting Beth’s sartorial strategy to her punk sensibility, DIY mindset, and fat activism. The new Beth Ditto anthem: Move freely through the world in fabrics worthy of your body.</p>
 
         <div class="project-links-wrapper">
-          <a src="#" class="project-link">Read my brand book here.</a>
+          <a target="_blank" href="https://www.dropbox.com/s/z1hyavgnvxik8ke/BD_Brand-Book_012016%20%281%29.pdf" class="project-link">Read my brand book here.</a>
         </div>
       </div>
     </div>
@@ -62,8 +62,8 @@ permalink: /work/
         <p class="project-text">I created an influencer campaign called Work In Progress (#WiltWIP).  The concept reinforces two ideas: 1) Wilt makes the clothes you wear to create and 2) We are heirs to our younger selves. A spin on affiliate marketing, every month Wilt selected two primary influencers to create an exclusive product that was made available for a limited-time on Wilt’s site. Cermacist Isabel Halley, Lee Tighlman, a recipe developer, and Kate Pugsley, an illustrator and painter all participated in the campaign.</p> 
 
         <div class="project-links-wrapper">
-          <a src="#" class="project-link">Read my brand approach here.</a><br>
-          <a src="#" class="project-link">Read my social strategy here.</a>
+          <a target="_blank" href="https://www.dropbox.com/s/o8oxiwympc3f7m0/Wilt_Brand%20Story_03232015_uploaded%20copyforsite.pdf" class="project-link">Read my brand approach here.</a><br>
+          <a target="_blank" href="https://www.dropbox.com/s/gu160wzjav1rzdi/Wilt_InfluencerStrategy_03302015_FINAL%20copy.pdf" class="project-link">Read my social strategy here.</a>
         </div>
       </div>
     </div>
@@ -91,7 +91,7 @@ permalink: /work/
         <p class="project-text">I worked alongside a team of designers to evolve Lavanila’s brand positioning from natural and nourishing, to empowering, effective and healthy.</p>
 
         <div class="prohect-links-wrapper">
-          <a src="#" class="project-link">Read my brand approach here.</a>
+          <a target="_blank" href="https://www.dropbox.com/s/qjef9owk2ow1p80/LAVA_Brand_Foundations_FOR%20SITE%20copy.pdf" class="project-link">Read my brand approach here.</a>
         </div>
       </div>
     </div>
@@ -101,7 +101,7 @@ permalink: /work/
     <div class="col-wrapper">
       <div class="col col-1">
         <h3 class="project-title">MHA-NYC</h3>
-        <h4 class="project-industry">Non-profits</h4>
+        <h4 class="project-industry">Healthcare</h4>
       </div>
 
       <div class="col col-2">
@@ -119,8 +119,8 @@ permalink: /work/
         <p class="project-text">I engaged the people MHA-NYC serves in the telling of their own stories. As Rena Au, one of MHA-NYC’s parent advocates told me “families must be heard and understood.” In developing this report, I did just that: I interviewed over two dozen staffers, including adminstrators, program associates, the C-suite, and clients to find inspiration for and consensus around a theme that could unify the entire organization.</p>
 
         <div class="project-links-wrapper">
-          <a src="#" class="project-link">Read the report here.</a><br>
-          <a src="#" class="project-link">View the microsite here.</a>
+          <a target="_blank" href="https://www.dropbox.com/s/e2xid1j0lonvhlu/mhanyc-2014-report.pdf" class="project-link">Read the report here.</a><br>
+          <a target="_blank" href="http://www.mhaofnyc.org/report2014/" class="project-link">View the microsite here.</a>
         </div>
       </div>
     </div>
@@ -151,7 +151,7 @@ permalink: /work/
         <p class="project-text">iHelp is an innovative, technology-driven behavioral health initiative.  I developed the brand based on the premise that we needed to start talking about mental health in a different way. With the rise in emoji popularity, emojis provided the perfect way to communicate iHelp’s value as self-help that works, anytime, anywhere.</p>
 
         <div class="project-links-wrapper">
-          <a src="#" class="project-link">Read my brand book here.</a>
+        <a target="_blank" href="http://ihelpcbt.com/" class="project-link">Read my brand book here.</a>
         </div>
       </div>
     </div>
@@ -181,8 +181,19 @@ permalink: /work/
         <p class="project-text">Our social mission won us a 3-year strategic partnership with GE Healthymagination.</p>
 
         <div class="project-links-wrapper">
-          <a src="#" class="project-link">Read the case study here.</a>
+          <a target="_blank" href="https://www.dropbox.com/s/z1hyavgnvxik8ke/BD_Brand-Book_012016%20%281%29.pdf" class="project-link">Read the case study here.</a>
         </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="work-section">
+    <div class="col-wrapper">
+      <div class="col col-1">
+      </div>
+
+      <div class="col col-2">
+        <h3 class="project-headline"><a target="_blank" href="https://www.dropbox.com/s/fbfhmd0ijmikclp/Ana%C3%AFs_Borja_AdditionalWork.pdf?dl=0">Past Work</a></h3>
       </div>
     </div>
   </div>
