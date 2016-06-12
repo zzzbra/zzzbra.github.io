@@ -57,6 +57,17 @@ figure,
   margin-bottom: $spacing-unit / 2;
 }
 
+// box-sizing
+html {
+  box-sizing: border-box;
+}
+
+*, 
+*:before, 
+*:after {
+  box-sizing: inherit;
+}
+
 // Images
 img {
   max-width: 100%;

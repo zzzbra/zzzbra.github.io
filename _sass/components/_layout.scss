@@ -15,13 +15,22 @@
     z-index: 100;
 
     .mobile-footer-wrapper {
-      bottom: 0;
-      position: fixed;
+      height: 100%;
+      padding: 60px 0;
+      
+      // scss-lint:disable NestingDepth
+      .site-footer {
+        padding: 0;
+      }
+      // scss-lint:enable NestingDepth
     }
 
     .trigger {
       display: block;
+      height: 100%;
+      overflow: auto;
       padding-bottom: 5px;
+      width: 100%;
     }
   }
 }
@@ -114,6 +123,7 @@
       background-color: $white;
       border-bottom: 1px solid $brand-color;
       display: block;
+      float: none;
       max-width: 100%;
       padding: 5px 20px;
       text-align: left;
@@ -147,6 +157,10 @@
   font-weight: 100;
   line-height: 0;
   margin-bottom: 0;
+
+  @include media-query($on-palm) {
+    line-height: inherit;
+  }
 }
 
 .list,
