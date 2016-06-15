@@ -4,7 +4,7 @@ title: Selected Work
 permalink: /work/
 ---
 
-<p class="main-text">Fashion, Healthcare, Hospitality, Construction, Technology & Consulting, Nonprofits, Lifestyle, and Beauty: My work spans a range of sectors.<br>
+<p class="main-text-secondary-page">Fashion, Healthcare, Hospitality, Construction, Technology & Consulting, Nonprofits, Lifestyle, and Beauty: My work spans a range of sectors.<br>
 <br>
 The selected work presented here showcases my approach to strategic communications for a diverse set of clients.<br>
 <br>
