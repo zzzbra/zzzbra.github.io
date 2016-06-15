@@ -4,10 +4,17 @@ title: About Me
 permalink: /about/
 ---
 
-<p class="main-text-about-page">I’ve worked with Fortune 500 companies, large non-profits, and healthcare tech and fashion startups.* Regardless of size or sector, I connect brands to ideas bigger than the products and services they sell.<br>
+<p class="main-text-about-page">Connecting policy to people: With 5 years of experience as a brand strategist and writer, I am currently pursuing an MPA with a health policy specialization at the Robert F. Wagner Graduate School of Public Service New York University (expected graduation May 2017).<br>
 <br>
-More specifically, I help companies find their voices; articulate their visions; and, communicate why what they do matters.<br>
-<small>* I'm also an Oxford comma advocate.</small>
+This summer I am a <a target="_blank" href="http://www.policiesforaction.org/node/41">Policies for Action</a> 2016 Research Fellow at NYU.<br>
+<br>
+I am seeking opportunities in the areas of public affairs, policy, and community organizing. My aim is to shape policy and communicate complex ideas to prompt political will and action. <br>
+<br>
+As a writer and brand strategist, I have worked with Fortune 500 companies, large non-profits, and healthcare tech and fashion startups.* I connect brands and organizations to ideas bigger than the products and services they sell.<br>
+<br>
+More specifically, I help them find their voices; articulate their visions; and, communicate why what they do matters.<br>
+<small><a
+href="http://thewritepractice.com/why-you-need-to-be-using-oxford-commas/">* I'm also an Oxford comma advocate.</a></small>
 </p>
 
 <div class="about-section-wrapper">
@@ -19,13 +26,14 @@ More specifically, I help companies find their voices; articulate their visions;
 
       <div class="col col-2">
         <ul class="list">
-          <li>Brand positioning/Repositioning</li>
+          <li>Brand Positioning/Repositioning</li>
           <li>Brand Books</li>
           <li>Voice &amp; Tone</li>
           <li>Copywriting</li>
           <li>Consumer Insights</li>
-          <li>Survey Research</li>
+          <li>Survey Methods</li>
           <li>Research</li>
+          <li>Motivational Research</li>
         </ul>
       </div>
     </div>
@@ -39,11 +47,11 @@ More specifically, I help companies find their voices; articulate their visions;
 
       <div class="col col-2">
         <ul class="list">
-          <li>I used to catalogue rare books <a href="http://www.lameduckbooks.com/">here</a> and <a href="http://www.ursusbooks.com/searchResults.php?category_id=277&action=browse&orderBy=mostrecent">here</a>.</li>
-          <li>I went through a solid 6 month obsession with <a href="http://www.worldpolicy.org/blog/2010/11/12/archiving-21st-century">digital literary
+          <li>I used to catalogue rare books <a target="_blank" href="http://www.lameduckbooks.com/">here</a> and <a target="_blank" href="http://www.ursusbooks.com/searchResults.php?category_id=277&action=browse&orderBy=mostrecent">here</a>.</li>
+          <li>I went through a solid 6 month obsession with <a target="_blank" href="http://www.worldpolicy.org/blog/2010/11/12/archiving-21st-century">digital literary
           archives</a>.</li>
-          <li>I was an intern at the <a href="http://www.theparisreview.org/">Paris Review</a>.</li>
-          <li>I’m a contemporary classical music enthusiast.</li>
+          <li>I was an intern at the <a target="_blank" href="http://www.theparisreview.org/">Paris Review</a>.</li>
+          <li>I’m a <a target="_blank" href="http://www.wqxr.org/series/q2/">contemporary classical music</a> enthusiast.</li>
           <li>I am currently pursuing an MPA in Health Policy & Management with a policy specialization at the Robert F. Wagner Graduate School of Public Service at New York University, set to graduate in May 2017.</li>
           <li>I am available for freelance, part-time, and project-based work.</li>
         </ul>
@@ -60,9 +68,7 @@ More specifically, I help companies find their voices; articulate their visions;
 
       <div class="col col-2">
         <ul class="list">
-          <li>After helping shape the mission and a vision of a healthcare tech startup, I decided to make it my personal mission to transform high-quality mental health care from a luxury for a few into a necessity for all. <br>
-          <br>
-          With my MPA and my background in brand strategy and strategic communications, I aim to connect policy to people.</li>
+        <li>After helping shape the mission and a vision of a <a href="https://www.dropbox.com/s/cgy705jgq2e0xzk/Ana%C3%AFs_Borja_TS_casestudy_updated.pdf?dl=0">healthcare tech startup</a>, I decided to make it my personal mission to transform high-quality mental health care from a luxury for a few into a necessity for all. </li>
         </ul>
       </div>
     </div>
@@ -77,7 +83,7 @@ More specifically, I help companies find their voices; articulate their visions;
       <div class="col col-2">
         <ul class="list">
           <li>IBM</li>
-          <li><a target="_blank" href="http://shop.bethditto.com/">Beth Ditto</a></li>
+          <li>Beth Ditto</li>
           <li>Condé Nast</li> 
           <li>Daily Beast</li>
           <li>Schoolhouse Electric & Supply Co.</li>

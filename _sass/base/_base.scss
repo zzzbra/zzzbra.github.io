@@ -68,6 +68,13 @@ html {
   box-sizing: inherit;
 }
 
+// Font anti-aliasing
+* {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 // Images
 img {
   max-width: 100%;
