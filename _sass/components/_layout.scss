@@ -323,7 +323,7 @@
   line-height: 50px;
   margin-bottom: 100px;
 
-  &-secondary-page {
+  &-about-page {
     font-size: $post-l-font-size;
     font-weight: 100;
     line-height: 30px;
@@ -331,6 +331,20 @@
 
     small {
       font-size: 15px;
+    }
+  }
+
+  &-work-page {
+    font-size: $main-font-size;
+    font-weight: 100;
+    line-height: 50px;
+    margin-bottom: 100px;
+
+    @include media-query($on-palm) {
+      font-size: $post-l-font-size;
+      font-weight: 100;
+      line-height: 30px;
+      margin-bottom: 100px;
     }
   }
 }

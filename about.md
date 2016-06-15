@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<p class="main-text-secondary-page">Connecting policy to people: With 5 years of experience as a brand strategist and writer, I am currently pursuing an MPA with a health policy specialization at the Robert F. Wagner Graduate School of Public Service New York University (expected graduation May 2017).<br>
+<p class="main-text-about-page">Connecting policy to people: With 5 years of experience as a brand strategist and writer, I am currently pursuing an MPA with a health policy specialization at the Robert F. Wagner Graduate School of Public Service New York University (expected graduation May 2017).<br>
 <br>
 This summer I am a <a target="_blank" href="http://www.policiesforaction.org/node/41">Policies for Action</a> 2016 Research Fellow at NYU.<br>
 <br>
